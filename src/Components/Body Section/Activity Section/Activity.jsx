@@ -24,7 +24,7 @@ const Activity = () => {
 
       <div className="secContainer grid">
         <div className="singleCustomer flex">
-          <img src={user} alt="Customer Image" />
+          <img src={user} alt="Customer Image1" />
           <div className="customerDetails">
             <span className="name">Rilley Jhonsons</span>
             <small>Ordered a new plant</small>
@@ -35,7 +35,7 @@ const Activity = () => {
         </div>
 
         <div className="singleCustomer flex">
-          <img src={user2} alt="Customer Image" />
+          <img src={user2} alt="Customer Image2" />
           <div className="customerDetails">
             <span className="name">Paula Sensorio</span>
             <small>Ordered a new plant</small>
@@ -46,7 +46,7 @@ const Activity = () => {
         </div>
 
         <div className="singleCustomer flex">
-          <img src={user3} alt="Customer Image" />
+          <img src={user3} alt="Customer Image3" />
           <div className="customerDetails">
             <span className="name">Gabriella Fox</span>
             <small>Ordered a new plant</small>
@@ -57,7 +57,7 @@ const Activity = () => {
         </div>
 
         <div className="singleCustomer flex">
-          <img src={user4} alt="Customer Image" />
+          <img src={user4} alt="Customer Image4" />
           <div className="customerDetails">
             <span className="name">Katy Miller</span>
             <small>Ordered a new plant</small>
@@ -68,7 +68,7 @@ const Activity = () => {
         </div>
 
         <div className="singleCustomer flex">
-          <img src={user5} alt="Customer Image" />
+          <img src={user5} alt="Customer Image5" />
           <div className="customerDetails">
             <span className="name">Jennifer Swan</span>
             <small>Ordered a new plant</small>
