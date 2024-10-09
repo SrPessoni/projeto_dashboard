@@ -1,4 +1,3 @@
-```markdown
 # Painel de Administração Responsivo em React
 
 Um painel de administração totalmente responsivo construído com ReactJS, projetado para facilitar a gestão de dados e a visualização de informações de maneira intuitiva e eficiente.
@@ -57,5 +56,3 @@ Contribuições são bem-vindas! Caso você queira contribuir com melhorias, sig
 3. Faça suas alterações e commit (`git commit -m 'Adiciona uma nova feature'`).
 4. Envie para o seu branch (`git push origin feature/nome-da-sua-feature`).
 5. Abra um Pull Request.
-
-```
