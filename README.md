@@ -2,26 +2,17 @@
 
 Um painel de administração totalmente responsivo construído com ReactJS, projetado para facilitar a gestão de dados e a visualização de informações de maneira intuitiva e eficiente.
 
-## Demonstração
-
-![Painel de Administração](link-para-sua-demonstracao-imagem)
-
 ## Tecnologias Usadas
 
 - **React**: Biblioteca JavaScript para criar interfaces de usuário.
-- **React Router**: Para gerenciar a navegação entre componentes.
-- **Axios**: Para realizar chamadas HTTP.
 - **Styled Components** ou **CSS Modules**: Para estilização dos componentes.
-- **Chart.js** ou **Recharts**: Para exibição de gráficos e dados visuais.
 - **Responsive Design**: Técnicas CSS para garantir que o painel seja totalmente responsivo e adaptável a diferentes tamanhos de tela.
 
 ## Funcionalidades
 
-- Dashboard interativo com gráficos dinâmicos.
-- Módulo de autenticação de usuários.
-- Visualização e gerenciamento de dados em tabelas.
-- Navegação por múltiplas seções (usuários, produtos, relatórios, etc.)
+- Dashboard visual.
 - Design responsivo que se adapta a dispositivos móveis e desktop.
+- Exemplo de como seria um Dashboard Admin.
 
 ## Instalação
 
